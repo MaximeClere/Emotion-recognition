@@ -48,6 +48,7 @@ Each convolution uses a **3×3 kernel with padding=1** to preserve spatial dimen
 After flattening, the feature map (of size `512 × 3 × 3`) is passed through **three dense layers** with dropout regularization:
 
 <p align="center">
+  <b>Figure 1 – CNN Model Architecture</b><br>
   <img src="CNN Model Architecture.png" width="70%" alt="CNN Model Architecture">
 </p>
 
