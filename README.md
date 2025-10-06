@@ -101,9 +101,7 @@ This demo illustrates the applicability of the trained model for human–machine
 
 
 ## References
-1. Goodfellow, I., Bengio, Y., Courville, A. (2016). *Deep Learning*. MIT Press.
-2. Barsoum, E., Zhang, C., Ferrer, C. C., Zhang, Z. (2016). *Training Deep Networks for Facial Expression Recognition with Crowd-Sourced Label Distribution*. ICMI.
-3. Zhang, K., Zhang, Z., Li, Z., Qiao, Y. (2016). *Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks*. arXiv:1604.02878.
-4. Kaggle FER2013 dataset: https://www.kaggle.com/datasets/msambare/fer2013.
-5. Christian Białek,Andrzej Matiolański and Michał Grega (2023) An Efficient Approach to Face Emotion Recognition with Convolutional Neural Networks https://www.mdpi.com/2079-9292/12/12/2707.
+1. Zhang, K., Zhang, Z., Li, Z., Qiao, Y. (2016). *Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks*. arXiv:1604.02878.
+2. Kaggle FER2013 dataset: https://www.kaggle.com/datasets/msambare/fer2013.
+3. Christian Białek,Andrzej Matiolański and Michał Grega (2023) An Efficient Approach to Face Emotion Recognition with Convolutional Neural Networks https://www.mdpi.com/2079-9292/12/12/2707.
 
